@@ -1,0 +1,33 @@
+corpo { 
+    cor de fundo: #1D4221;
+    cor: branco;
+    familia de fontes: "Bai jamjuree", sem sarifa;
+    exibição: flexivel;
+    justificar-conteúdo: centro; 
+    alinhar-itens: centro; 
+    altura: 700px; 
+    margem: 0;
+} 
+
+botão { 
+    cor de fundo:? #64A712;
+    cor: branco;
+    familia de fontes: "Bai jamjuree", sem serifa;
+} 
+
+.passo { 
+    exibição: nenhuma; 
+}
+
+.passo.ativo {
+    display:block;
+} 
+
+main {
+    text-align: center; 
+    max-width: 90%; 
+}
+
+img {
+    max-width: 90%
+} 
